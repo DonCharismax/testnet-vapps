@@ -44,14 +44,14 @@ The app will consist of a simple command-line interface (CLI) or a minimal web a
 ## Timeline
 
 ### PoC (2-4 weeks)
-[✔] Basic functionality for generating a simple ZK proof.
-[✔] SL integration for proof verification.
-[✔] A working CLI tool for testing.
+[x] Basic functionality for generating a simple ZK proof.
+[x] SL integration for proof verification.
+[x] A working CLI tool for testing.
 
 ### MVP (4-8 weeks)  
-[✔] Full features for more complex data types.
-[✔] A web interface for broader access.
-[✔] User testing and documentation.
+[x] Full features for more complex data types.
+[x] A web interface for broader access.
+[x] User testing and documentation.
 
 ## Innovation
 This project is unique because it provides a practical tool that directly leverages the core technology of the Soundness Layer. By focusing on data authentication and privacy, it serves as a critical building block for the entire ecosystem, enabling other developers to build more secure and private applications.
@@ -60,7 +60,7 @@ This project is unique because it provides a practical tool that directly levera
 The best way to contact me is through Discord: @charisma99 | 𝓓𝓸𝓷 𝓒𝓱𝓪𝓻𝓲𝓼𝓶𝓪 Or email: 9xdonx@gmail.com
 
 **Checklist before submitting:**
-[✔] All fields completed
-[✔] GitHub username matches PR author
-[✔] SL integration explained
-[✔] Timeline is realistic
+[x] All fields completed
+[x] GitHub username matches PR author
+[x] SL integration explained
+[x] Timeline is realistic
