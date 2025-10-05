@@ -37,9 +37,9 @@ The app will consist of a simple command-line interface (CLI) or a minimal web a
 - **Storage**: Off-chain data storage, with on-chain proof anchoring via SL.
 
 ### Features
-1.Proof generation: Allows users to generate ZK proofs for a given piece of data.
-2.Proof verification: Provides a public endpoint to verify the authenticity of a generated proof.
-3.API access: An easy-to-use API for other developers to integrate the authenticator into their dApps.
+- 1.Proof generation: Allows users to generate ZK proofs for a given piece of data.
+- 2.Proof verification: Provides a public endpoint to verify the authenticity of a generated proof.
+- 3.API access: An easy-to-use API for other developers to integrate the authenticator into their dApps.
 
 ## Timeline
 
