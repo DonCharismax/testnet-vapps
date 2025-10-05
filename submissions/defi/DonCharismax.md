@@ -60,7 +60,7 @@ This project is unique because it provides a practical tool that directly levera
 The best way to contact me is through Discord: @charisma99 | 𝓓𝓸𝓷 𝓒𝓱𝓪𝓻𝓲𝓼𝓶𝓪 Or email: 9xdonx@gmail.com
 
 **Checklist before submitting:**
-- [x] All fields completed
-- [x] GitHub username matches PR author
-- [x] SL integration explained
-- [x] Timeline is realistic
+- [x] All fields completed.
+- [x] GitHub username matches PR author.
+- [x] SL integration explained.
+- [x] Timeline is realistic.
