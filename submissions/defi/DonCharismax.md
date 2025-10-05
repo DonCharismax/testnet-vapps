@@ -9,7 +9,7 @@ timestamp: "2025-09-15"
 - Developer
 Name: Don Charisma
 GitHub: @DonCharismax
-Discord: @charisma99#1052786608946020392
+Discord: @charisma99
 Experience: I'm a developer with 9 years of experience, specializing in Python and JavaScript. I have a background in web development and have worked on small blockchain projects.
 
 - Project
